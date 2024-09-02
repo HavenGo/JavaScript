@@ -17,7 +17,7 @@ function gigle(num) {
 }
 console.log(gigle(3));
 console.log(findSum(1, 2))
-// new
+// Building a triangle
 function makeLine(length) {
     var line = "";
     for (let j = 1; j <= length; j++) {
